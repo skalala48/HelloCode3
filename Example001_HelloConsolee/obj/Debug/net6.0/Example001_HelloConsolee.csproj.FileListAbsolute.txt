@@ -1,0 +1,16 @@
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\bin\Debug\net6.0\Example001_HelloConsolee.exe
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\bin\Debug\net6.0\Example001_HelloConsolee.deps.json
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\bin\Debug\net6.0\Example001_HelloConsolee.runtimeconfig.json
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\bin\Debug\net6.0\Example001_HelloConsolee.dll
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\bin\Debug\net6.0\ref\Example001_HelloConsolee.dll
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\bin\Debug\net6.0\Example001_HelloConsolee.pdb
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.GlobalUsings.g.cs
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.csproj.AssemblyReference.cache
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.AssemblyInfoInputs.cache
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.AssemblyInfo.cs
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.csproj.CoreCompileInputs.cache
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.dll
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\ref\Example001_HelloConsolee.dll
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.pdb
+C:\Users\danic\Desktop\C#A\Example001_HelloConsolee\obj\Debug\net6.0\Example001_HelloConsolee.genruntimeconfig.cache
